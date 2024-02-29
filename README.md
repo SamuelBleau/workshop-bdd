@@ -2,10 +2,13 @@
 
 ## Introduction:
 
-Le SQLite permet
+SQLite is a version of MySQL wich doesn't require any server to work. It can only open and read one SQLite file at once
 
-### Prérequis:
+### Prerequisites:
 
-`Python`
+`Python` : installation : `sudo apt install python3`
+`SQLite 3` : dans votre code python : `import sqlite3`
 
-## Première partie
+## First Part:
+
+For this part you'll
