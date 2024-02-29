@@ -7,6 +7,7 @@ SQLite is a version of MySQL wich doesn't require any server to work. It can onl
 ### Prerequisites:
 
 `Python` : installation : `sudo apt install python3`
+
 `SQLite 3` : dans votre code python : `import sqlite3`
 
 ## Part one:
